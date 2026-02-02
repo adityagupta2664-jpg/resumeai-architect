@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Architect",
+  "description": "A privacy-first, AI-powered resume analyzer that simulates modern ATS systems to provide actionable feedback, scoring, and keyword optimization strategies using Google Gemini models.",
+  "requestFramePermissions": []
+}
